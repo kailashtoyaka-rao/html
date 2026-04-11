@@ -1,0 +1,29 @@
+!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        <replite< /title>
+</head>
+
+<body>
+    <h2> an ordered html list:</h2>
+    <ol> <li>first item</li>
+    <li>second item</li>
+<li>third item</li>
+<li>fourth item</li></ol>
+<li> item </li>
+<li> item </li>
+<li> item </li>
+<li> item </li>
+<h2> definitoin list:</h2>
+<d1>
+    <dt>tea</dt>
+    <dd>- hot </dd>
+    <dt>juice</dt>
+    <dd> ice drink</dd>
+</d1>
+
+</body>
+
+</html>
